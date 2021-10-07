@@ -19,13 +19,13 @@ After the program execution Sympletron displays all information about its state 
 
 An example of subtracting two numbers is shown in the screenshot below.
 
-000? 10010 *Tabspace*//enter a number into the 10th memory cell  
-001? 10011 *Tabspace*//enter a number into the 11th memory cell  
-002? 20010 *Tabspace*//put the number from the 10th memory cell to the accumulator  
-003? 31011 *Tabspace*//subtract from the number in the accumulator the number in the 11th cell  
-004? 21012 *Tabspace*//output the number from the accumulator to the 12th memory cell  
-005? 43000 *Tabspace*//end the entering of commands  
-006? -99999*Tabspace*//start the program execution  
+000? 10010  *Tabspace* //enter a number into the 10th memory cell  
+001? 10011  *Tabspace* //enter a number into the 11th memory cell  
+002? 20010  *Tabspace* //put the number from the 10th memory cell to the accumulator  
+003? 31011  *Tabspace* //subtract from the number in the accumulator the number in the 11th cell  
+004? 21012  *Tabspace* //output the number from the accumulator to the 12th memory cell  
+005? 43000  *Tabspace* //end the entering of commands  
+006? -99999 *Tabspace* //start the program execution  
 
 <img src="/screenshots/subtracting.png" alt="Subrtacting"/>
 
