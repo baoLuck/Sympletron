@@ -54,7 +54,7 @@ void commandRecord(int a[][NUM_OF_COLUMNS])
                 break;
 
             case -99999:
-                printf("\n*** Programs download has been completed. ***\n"
+                printf("\n*** The download of the program has been completed. ***\n"
                        "*** Starting the program execution. ***\n\n");
                 break;
 
