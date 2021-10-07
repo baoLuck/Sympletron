@@ -31,7 +31,7 @@ An example of subtracting two numbers is shown in the screenshot below.
 
 ## P. S. 
 This is my first pet-project and first README file also. 
-The project was written on C. And the main purpose of writting it is to improve my skills in using GIT-hub and to try to write good description of this simple project.
+The project was written on C. And the main purpose of writting it is to improve my skills in using github and to try to write good description of this simple project.
 
 ## Support
 You can contact me using email vitalymayer1706@gmail.com. I'd be happy to help you
