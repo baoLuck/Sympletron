@@ -1,10 +1,10 @@
 # Sympletron
 
 ## What is it?
-Sympletron is a very simple compiler, which owns the indivisibility of memory (instructions and data are stored in the same memory) and can do some very simple operations.
+Sympletron is a very simple compiler, which has the indivisibility of memory (instructions and data are stored in the same memory) and can do some very simple operations.
 It can read an integer from the keyboard and place it at the specified address in its memory, it can display an integer or instruction number placed in the specified memory cell.
 Sympletron also can add, subtract and multiply the numbers in the specified cell with the value placed in the accumulator (just like in assembly).
-Еhe list of commands is really small, but this project can be expanded, for example, to add the ability to work with floating point numbers, to change the memory representation to hexadecimal, to expand the memory, to save the memory state after the last execution, etc.
+The list of commands is really small, but this project can be expanded, for example, to add the ability to work with floating point numbers, to change the memory representation to hexadecimal, to expand the memory, to save the memory state after the last execution, etc.
 
 ## How to build and run?
 The executable file located in bin/Debug/Project_Sympletron.exe. All you need to do is just to run it.
