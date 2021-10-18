@@ -55,7 +55,7 @@ The user is asked to enter two numbers, the first of which should always be 1, b
 `07? 1105` - output to screen the number from the 5th memory cell  
 `08? 4117` - go to the instruction on the 17th memory cell if accumulator less then 0  
 `09? 4217` - go to the instruction on the 17nd memory cell if accumulator equals 0  
-`10? 3102` - subtract from the number in the accumulator the number in the 2nd cell 
+`10? 3102` - subtract from the number in the accumulator the number in the 2nd cell  
 `11? 2113` - output the number from the accumulator to the 13th memory cell  
 `12? 4014` - go to the instruction on the 14th memory cell  
 `13? 0000` - reserve the 11th memory cell for data  
