@@ -66,11 +66,11 @@ The user is asked to enter two numbers, the first of which should always be 1, b
 `18? 4300` - end the entering of commands in this branch  
 `19? -99999` - start the program execution  
 
-<img src="/screenshots/loaded_code.png" alt="Code"/>
+<img src="/screenshots/code_of_program.png" alt="Code"/>
 
 The implementation of the loop is shown by the 10th-16th commands.
 
-<img src="/screenshots/program_execution.png" alt="Execution"/>
+<img src="/screenshots/execution.png" alt="Execution"/>
 
 ## Updates
 ### Verion 1.1 (18.10.2021)
